@@ -1,0 +1,19 @@
+{
+	"name": "Satsink",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStorage1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"folderPath": "sink",
+				"container": "second"
+			}
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

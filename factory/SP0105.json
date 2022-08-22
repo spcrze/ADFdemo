@@ -1,0 +1,9 @@
+{
+	"name": "SP0105",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ffd44837-1beb-4361-bcf3-e27004f02fdb",
+		"tenantId": "e4e34038-ea1f-4882-b6e8-ccd776459ca0"
+	}
+}
